@@ -1,0 +1,44 @@
+_repo: An-Algonquin-Maiden--A-Romance-of-the-Early-Days-of-Upper-Canada_8661
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wetherald, A. Ethelwyn
+    aliases:
+    - Wetherald, Agnes Ethelwyn
+    - Wetherald, Ethelwyn
+    birthdate: 1857
+    deathdate: 1940
+    gutenberg_agent_id: '26661'
+    url: http://www.gutenberg.org/2009/agents/26661
+  - agent_name: Adam, G. Mercer (Graeme Mercer)
+    alias: Adam, Graeme Mercer
+    birthdate: 1830
+    deathdate: 1912
+    gutenberg_agent_id: '372'
+    url: http://www.gutenberg.org/2009/agents/372
+    wikipedia: http://en.wikipedia.org/wiki/Graeme_Mercer_Adam
+description: It was a May morning in 1825 -- spring-time of the year, late spring-time
+  of the century. It had rained the night before, and a warm pallor in the eastern
+  sky was the only indication that the sun was trying to pierce the gray dome of nearly
+  opaque watery fog, lying low upon that part of the world now known as the city of
+  Toronto, then the town of Little York. This cluster of five or six hundred houses
+  had taken up a determined position at the edge of a forest then gloomily forbidding
+  in its aspect, interminable in extent, inexorable in its resistance to the shy or
+  to the sturdy approaches of the settler ...
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Algonquian Indians -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Historical fiction'
+- !lcsh 'Indians of North America -- Canada -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'An Algonquin Maiden: A Romance of the Early Days of Upper Canada'
+url: http://www.gutenberg.org/ebooks/8661
