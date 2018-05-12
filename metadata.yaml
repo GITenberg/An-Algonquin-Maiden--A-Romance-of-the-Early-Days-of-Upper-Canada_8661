@@ -1,5 +1,8 @@
 _repo: An-Algonquin-Maiden--A-Romance-of-the-Early-Days-of-Upper-Canada_8661
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Wetherald, A. Ethelwyn
@@ -25,6 +28,8 @@ description: It was a May morning in 1825 -- spring-time of the year, late sprin
   had taken up a determined position at the edge of a forest then gloomily forbidding
   in its aspect, interminable in extent, inexorable in its resistance to the shy or
   to the sturdy approaches of the settler ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8661#An-Algonquin-Maiden--A-Romance-of-the-Early-Days-of-Upper-Canada
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
